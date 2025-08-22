@@ -106,7 +106,7 @@ header {
 /* HERO */
 .hero {
   position: relative;
-  background: url("images/slice-crispy-pizza-with-meat-cheese.jpg") no-repeat center/cover;
+  background: url("slice-crispy-pizza-with-meat-cheese.jpg") no-repeat center/cover;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -305,3 +305,4 @@ footer {
   color:  #FFD700;    
   transform: scale(1.2); 
 }
+
